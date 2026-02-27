@@ -7,12 +7,19 @@ Giving Artificial Intelligence and Deep Learning a spin.
 ## My Learning Roadmap
 
 -> Python Programming
+
 -> Object-Oriented Programming (OOP)
+
 -> Machine Learning with Mathematics.
+
 -> NumPy & Pandas
+
 -> Data Visualization
+
 -> Machine Learning
+
 -> Deep Learning
+
 -> Large Language Models (LLMs)
 
 ## Current Focus
