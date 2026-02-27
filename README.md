@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Ayesha Zahid 👋
 
-<!--
-**ayeshazahid170125/ayeshazahid170125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student.
+🐍 Currently Learning Python
+Giving Artificial Intelligence and Deep Learning a spin.
 
-Here are some ideas to get you started:
+## My Learning Roadmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> Python Programming
+-> Object-Oriented Programming (OOP)
+-> Machine Learning with Mathematics.
+-> NumPy & Pandas
+-> Data Visualization
+-> Machine Learning
+-> Deep Learning
+-> Large Language Models (LLMs)
+
+## Current Focus
+Developing good basics of programming and completing small projects to develop bit by bit.
+
+## Goal
+In order to graduate as an expert AI Engineer and create intelligent systems in reality.
+
+---
+✨ Learning consistently. Growing daily.
