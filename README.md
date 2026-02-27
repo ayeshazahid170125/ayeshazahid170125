@@ -1,7 +1,9 @@
 Hi, I'm Ayesha Zahid 👋
 
 Software Engineering Student.
+
 🐍 Currently Learning Python
+
 Giving Artificial Intelligence and Deep Learning a spin.
 
 ## My Learning Roadmap
