@@ -1,10 +1,10 @@
 Hi, I'm Ayesha Zahid 👋
 
-Software Engineering Student.
+🎓 Software Engineering Student.
 
 🐍 Currently Learning Python
 
-Giving Artificial Intelligence and Deep Learning a spin.
+🤖 Giving Artificial Intelligence and Deep Learning a spin.
 
 ## My Learning Roadmap
 
@@ -30,5 +30,5 @@ Developing good basics of programming and completing small projects to develop b
 ## Goal
 In order to graduate as an expert AI Engineer and create intelligent systems in reality.
 
----
+
 ✨ Learning consistently. Growing daily.
