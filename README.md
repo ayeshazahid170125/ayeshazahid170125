@@ -1,6 +1,6 @@
 Hi, I'm Ayesha Zahid 👋
 
-🎓 Software Engineering Student.
+🎓 Software Engineering 
 
 🐍 Currently Learning Python
 
