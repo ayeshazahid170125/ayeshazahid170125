@@ -31,4 +31,4 @@ Developing good basics of programming and completing small projects to develop b
 In order to graduate as an expert AI Engineer and create intelligent systems in reality.
 
 
-✨ Learning consistently. Growing daily.
+✨ Learning consistently. Growing daily
